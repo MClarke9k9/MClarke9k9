@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Mark's LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mclarke9k9/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/captianclarke/)---
+[<img align="left" alt="Mark | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/captianclarke/)-
 
 ### Languages and Tools:
 
