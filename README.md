@@ -6,7 +6,7 @@
 
 - ⚡ I’m currently learning everything 
 - ⚡ I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Complete my Bootcamp and Join a Great Team
+- 🥅 2021 Goals: Join a Great Team and learn another language
 - ⚡ Fun fact: I also am pretty good at basketball and runescape 
 
 ### Connect with me:
