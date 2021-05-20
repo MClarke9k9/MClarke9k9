@@ -4,7 +4,7 @@
 
 ## I'm a Software Developer!!
 
-- ⚡ I’m currently learning everything 
+- 🥅  I’m always learning 
 - ⚡ I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Join a Great Team and learn another language
 - ⚡ Fun fact: I also am pretty good at basketball and runescape 
