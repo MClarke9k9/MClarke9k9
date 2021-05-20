@@ -40,6 +40,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [My Love For Software Development](https://dev.to/mclarke9k9/love-software-development-3gfk)
+<!-- - [Ready for Growth](https://dev.to/mclarke9k9/ready-for-growth-1mg5) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
