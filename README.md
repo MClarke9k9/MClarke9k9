@@ -48,14 +48,14 @@
 
 <!--   <summary> :zap: GitHub Stats</summary> -->
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
+<!-- ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
 <br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=myapp)](https://github.com/MClarke9k9/myapp)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=myapp)](https://github.com/MClarke9k9/myapp)
 <br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=myapp)](https://github.com/MClarke9k9/myapp)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=myapp)](https://github.com/MClarke9k9/myapp)
 <br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=myapp)](https://github.com/MClarke9k9/myapp)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=myapp)](https://github.com/MClarke9k9/myapp)
-
+ -->
 
 
 
