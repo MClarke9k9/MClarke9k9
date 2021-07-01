@@ -56,7 +56,4 @@
 
 
 
-
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=MCPortfolio2.0)](https://github.com/MClarke9k9/MCPortfolio2.0)
