@@ -50,11 +50,11 @@
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
 <br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=AlgoSorter)](https://github.com/MClarke9k9/AlgoSorter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=GetFit)](https://github.com/MClarke9k9/GetFit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=WeatherDashboard2.0)](https://github.com/MClarke9k9/WeatherDashboard2.0)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=My-Kmeans)](https://github.com/MClarke9k9/My-Kmeans)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=README-For-You)](https://github.com/MClarke9k9/README-For-You)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=UserDirectory)](https://github.com/MClarke9k9/UserDirectory)
+<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=GetFit)](https://github.com/MClarke9k9/GetFit)
+<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=WeatherDashboard2.0)](https://github.com/MClarke9k9/WeatherDashboard2.0)
+<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=My-Kmeans)](https://github.com/MClarke9k9/My-Kmeans)
+<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=README-For-You)](https://github.com/MClarke9k9/README-For-You)
+<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=UserDirectory)](https://github.com/MClarke9k9/UserDirectory)
 
 
 
