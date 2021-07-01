@@ -9,6 +9,10 @@
 - 🥅   2021 Goals: Join a Great Team and learn another language
 - ⚡ Fun fact: I also am pretty good at basketball and runescape 
 
+<summary> :zap: GitHub Stats</summary>
+
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
+
 ### Connect with me:
 
 [<img align="left" alt="Mark's LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mclarke9k9/)
@@ -46,18 +50,13 @@
 ---
 
 
- <summary> :zap: GitHub Stats</summary>
+<!--  <summary> :zap: GitHub Stats</summary>
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
-<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=AlgoSorter)](https://github.com/MClarke9k9/AlgoSorter)
-<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=GetFit)](https://github.com/MClarke9k9/GetFit)
-<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=WeatherDashboard2.0)](https://github.com/MClarke9k9/WeatherDashboard2.0)
-<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=My-Kmeans)](https://github.com/MClarke9k9/My-Kmeans)
-<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=README-For-You)](https://github.com/MClarke9k9/README-For-You)
-<br/>[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=UserDirectory)](https://github.com/MClarke9k9/UserDirectory)
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple) -->
 
 
 
 
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=MCPortfolio2.0)](https://github.com/MClarke9k9/MCPortfolio2.0) -->
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=MCPortfolio2.0)](https://github.com/MClarke9k9/MCPortfolio2.0)
