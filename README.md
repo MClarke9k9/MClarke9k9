@@ -10,9 +10,10 @@
 - 🥅   2021 Goals: Join a Great Team and learn another language
 - ⚡ Fun fact: I also am pretty good at basketball and runescape 
 
-<summary> :zap: GitHub Stats</summary>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=MCPortfolio2.0)](https://github.com/MClarke9k9/MCPortfolio2.0)
+<!-- <summary> :zap: GitHub Stats</summary>
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple) -->
 
 ### Connect with me:
 
@@ -51,10 +52,10 @@
 ---
 
 
-<!--  <summary> :zap: GitHub Stats</summary>
+ <summary> :zap: GitHub Stats</summary>
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple) -->
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=MCPortfolio2.0)](https://github.com/MClarke9k9/MCPortfolio2.0)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=MCPortfolio2.0)](https://github.com/MClarke9k9/MCPortfolio2.0) -->
