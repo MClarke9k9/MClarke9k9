@@ -1,8 +1,5 @@
 ### Hi there, I'm Mark 👋
 
-
-<!-- [![Website](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/~017e3bd9129fdd9e50) -->
-
 ## I'm a Software Developer!!
 
 - 🥅   I’m always learning 
