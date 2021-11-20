@@ -2,9 +2,9 @@
 
 ## I'm a Software Developer!!
 
-- 🥅   I’m always learning 
+<!-- - 🥅   I’m always learning 
 - ⚡ I’m looking to collaborate with other developers
-- 🥅   2021 Goals: Join a Great Team and learn another language
+- 🥅   2021 Goals: Join a Great Team and learn another language -->
 - ⚡ Fun fact: I also am pretty good at basketball and runescape 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=MCPortfolio2.0)](https://github.com/MClarke9k9/MCPortfolio2.0)
