@@ -14,7 +14,8 @@
 
 ### Connect with me:
 
-[![Website](https://img.shields.io/website?label=MyUpwork&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/~017e3bd9129fdd9e50)[<img align="left" alt="Mark's LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mclarke9k9/)
+<!-- [![Website](https://img.shields.io/website?label=MyUpwork&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/~017e3bd9129fdd9e50) -->
+[<img align="left" alt="Mark's LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mclarke9k9/)
 [<img align="left" alt="Mark | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/captianclarke/)<br />
 
 ### Languages and Tools:
