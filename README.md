@@ -1,6 +1,6 @@
 ### Hi there, I'm Mark 👋
 
-## I'm a Software Developer!!
+## I'm a Software Engineer at snapIoT!!
 
 <!-- - 🥅   I’m always learning 
 - ⚡ I’m looking to collaborate with other developers
