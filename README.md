@@ -1,20 +1,17 @@
-### Hi there, I'm Mark 👋
+### Sup, I'm Mark :dragon:
 
-## I'm a Software Engineer!!
+## I was Software Engineer, but now I just do IT stuff.
 
-<!-- - 🥅   I’m always learning 
-- ⚡ I’m looking to collaborate with other developers
-- 🥅   2021 Goals: Join a Great Team and learn another language -->
-- ⚡ Fun fact: I also am pretty good at basketball and runescape 
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MClarke9k9&theme=midnight-purple&repo=MCPortfolio2.0)](https://github.com/MClarke9k9/MCPortfolio2.0)
 <!-- <summary> :zap: GitHub Stats</summary>
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple) -->
 
-### Connect with me:
+<!-- ### Connect with me:
 
-<!-- [![Website](https://img.shields.io/website?label=MyUpwork&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/~017e3bd9129fdd9e50) -->
+ [![Website](https://img.shields.io/website?label=MyUpwork&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/freelancers/~017e3bd9129fdd9e50) 
 [<img align="left" alt="Mark's LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mclarke9k9/)
 <br />
 
@@ -43,15 +40,15 @@
 
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START
 - [My Love For Software Development](https://dev.to/mclarke9k9/love-software-development-3gfk)
 - [Ready for Growth](https://dev.to/mclarke9k9/ready-for-growth-1mg5)
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END -->
 
 ---
 
 
- <summary> :zap: GitHub Stats</summary>
+ <!-- <summary> :zap: GitHub Stats</summary> -->
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
 
