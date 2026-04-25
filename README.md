@@ -1,4 +1,4 @@
-### Sup, I'm Mark :dragon:
+### Sup, I'm Mark :floppy_disk:
 
 ## I was Software Engineer, but now I just do IT stuff.
 
