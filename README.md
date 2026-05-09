@@ -4,5 +4,5 @@
 
 
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
+<!--![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=MClarke9k9&show_icons=true&theme=midnight-purple)
 
