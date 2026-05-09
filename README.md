@@ -1,6 +1,6 @@
 ### Sup, I'm Mark :floppy_disk:
 
-## I was Software Engineer, but now I just do IT stuff.
+## I was a Software Engineer, but now I just do IT stuff.
 
 
 
